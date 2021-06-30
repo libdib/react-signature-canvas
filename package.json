@@ -46,8 +46,8 @@
   },
   "peerDependencies": {
     "prop-types": "^15.5.8",
-    "react": "0.14 - 16",
-    "react-dom": "0.14 - 16"
+    "react": "17.x.x",
+    "react-dom": "17.x.x"
   },
   "dependencies": {
     "signature_pad": "^2.3.2",
@@ -65,10 +65,9 @@
     "canvas-prebuilt": "^1.6.11",
     "css-loader": "^0.24.0",
     "enzyme": "^3.10.0",
-    "enzyme-adapter-react-16": "^1.14.0",
     "jest": "^24.8.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^17.x.x",
+    "react-dom": "^17.x.x",
     "react-hot-loader": "^1.2.7",
     "standard": "^13.0.2",
     "style-loader": "^0.13.1",
